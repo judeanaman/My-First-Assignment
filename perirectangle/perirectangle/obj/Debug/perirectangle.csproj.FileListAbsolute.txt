@@ -1,0 +1,6 @@
+c:\users\anaman\documents\visual studio 2012\Projects\perirectangle\perirectangle\bin\Debug\perirectangle.exe.config
+c:\users\anaman\documents\visual studio 2012\Projects\perirectangle\perirectangle\obj\Debug\perirectangle.csprojResolveAssemblyReference.cache
+c:\users\anaman\documents\visual studio 2012\Projects\perirectangle\perirectangle\bin\Debug\perirectangle.exe
+c:\users\anaman\documents\visual studio 2012\Projects\perirectangle\perirectangle\bin\Debug\perirectangle.pdb
+c:\users\anaman\documents\visual studio 2012\Projects\perirectangle\perirectangle\obj\Debug\perirectangle.exe
+c:\users\anaman\documents\visual studio 2012\Projects\perirectangle\perirectangle\obj\Debug\perirectangle.pdb
